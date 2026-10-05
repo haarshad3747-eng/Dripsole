@@ -1,0 +1,8 @@
+{
+  "name": "Kicks Vault - Sneaker & Streetwear Store",
+  "description": "India's premier dark streetwear sneaker boutique. Authentic Air Jordans, Dunks, Yeezys, and hyped kicks with instant delivery across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
